@@ -28,7 +28,7 @@
 
 ## Installation
 ### Generic
-    git clone https://github.com/oblique/create_ap
+    git clone https://github.com/HenryChenYD/create_ap.git
     cd create_ap
     make install
 
